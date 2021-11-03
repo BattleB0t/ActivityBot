@@ -24,6 +24,9 @@
 ### STEP 4: Click run, and you're ready to go! Now simply host the repl.
 #
 
+Commands:
+``` /activities <channel> <type>``` 
+
 # Links
 - [YouTube Channel](https://bit.ly/ItzSidhanYT)
 - [Discord Server](https://discord.gg/E3EHvPeZjt)
